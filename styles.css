@@ -152,6 +152,14 @@ h2 {
     font-size: 16px;
     width: 100px;
 }
+
+.bottom-header {
+    color: #E5E7EB;
+    background-color: #1F2937;
+    padding: 48px;
+    text-align: center;
+}
+
 .main-image {
     width: 100%;
 }
@@ -159,3 +167,4 @@ h2 {
 a {
     text-decoration: none;
 }
+
