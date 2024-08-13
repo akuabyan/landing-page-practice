@@ -162,6 +162,7 @@ h2 {
 
 .main-image {
     width: 250px;
+    height: auto;
 }
 
 a {
