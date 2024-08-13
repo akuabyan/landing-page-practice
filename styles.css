@@ -58,6 +58,43 @@ button {
     width: 100px;
 }
 
+.sri {
+    padding: 48px;
+}
+
+.info-title {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937
+}
+
+.information {
+    display: flex;
+    padding: 48px 96px;
+    justify-content: center;
+    gap: 48px;
+}
+
+.card > img {
+    width: 150px;
+    border: #3882F6 3px solid;
+    border-radius: 6px;
+}
+
+.card {
+    text-align: center;
+    width: 150px;  
+}
+
+.card > p {
+    color: grey;
+}
+
 .main-image {
     width: 100%;
 }
